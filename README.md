@@ -18,8 +18,12 @@ Skills: HTML 5 | CSS 3 | Tailwind CSS | Material UI | DaisyUI | Bootstrap | Java
 
 ## Let's Connect With Me:
 
-<p align="center"> <a href="mailto:saifulazad7061@gmail.com" target="_blank"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/saiful-islam-316381244/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
+<p align="center">
+  <a href="mailto:saifulazad7061@gmail.com" target="_blank"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/saiful-islam-316381244/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/azadgmtl" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://dev-azad.netlify.app" target="_blank"><img src="https://img.shields.io/badge/website-000000.svg?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</p>
 
 ## 🚀 Tools I Use
 
