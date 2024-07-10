@@ -14,7 +14,7 @@ Skills: HTML 5 | CSS 3 | Tailwind CSS | Material UI | DaisyUI | Bootstrap | Java
 ✔ 🌱 I’m currently learning TypeScript & Next JS <br>
 ✔ 👯 I’m looking to collaborate on Github <br>
 ✔ 💬 Ask me about Web Development <br>
-✔ 📫 How to reach me: fatemachowdhury318@gmail.com <be>
+✔ 📫 How to reach me: saifulazad7061@gmail.com <be>
 
 ## Let's Connect :handshake:
 
